@@ -1,5 +1,6 @@
 FAQ
 - ubytovani 
+- parkovani
 - dary
 
 
