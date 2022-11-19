@@ -64,7 +64,7 @@ html {
   font-size: 1.3rem;
 }
 
-.hero .tempatwaktu {
+.hero .program {
   padding-top: 35px;
   font-size: 1.3rem;
   
@@ -297,7 +297,7 @@ html {
   padding-bottom: 60px;
 }
 
-.nama-lengkap {
+.name-full {
   font-family: 'Parisienne', sans-serif;
   color: #996E6D;
   font-size: 3.5rem;
@@ -319,7 +319,7 @@ vertical-align: middle;
   font-size: 18px;
 }
 
-.waktu {
+.time {
   font-size: 1.4rem;
   font-family: 'Raleway', sans-serif;
 }
