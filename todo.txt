@@ -1,9 +1,9 @@
 TED:
 
 RVSP
-- jak udelat ? email/tel ?
+- Adelka pridat text
+- pridat  email & tel ?
 
-- dodelat fotky/ o klarce & jardovi
 
 
 POZDEJI:
@@ -15,6 +15,12 @@ POZDEJI:
 
 HOTOVO:
 - misto a cas dodelat
+- dodelat fotky/ o klarce & jardovi
+
+RVSP
+- vycentrovat nadpis Svedkyne
+
+
 FAQ
 - ubytovani 
 - parkovani
